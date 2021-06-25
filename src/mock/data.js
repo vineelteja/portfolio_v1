@@ -17,7 +17,7 @@ export const heroData = {
 
 // ABOUT DATA
 export const aboutData = {
-  img: 'vin_profile.jpg',
+  img: 'profile_vin.jpg',
   paragraphOne: `I'm a full stack engineer experienced in web technologies with knowledge of Software Development, Python, NodeJS, VueJS, React, Redux, MongoDB, MySQL, PostgreSQL, ElasticSearch, CSS3, SCSS, Data Analysis, React.js and Docker.`,
   paragraphTwo: `I love working in microservices architecture. I love building great products that help people be more productive and make the world a better place. I'm always on the lookout for opportunities to learn new things and grow my career to the point where it will never feel like work.`,
   paragraphThree: `I'm also passionate about iOS application development and Machine Learning and Deep Learning. I love to spend my free time in travel and photography.`,
