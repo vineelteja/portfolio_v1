@@ -51,7 +51,7 @@ export const projectsData = [
     info: 'A new social networking app allows you to talk to people around you while you are anonymous. Express your feelings wihtout fear and  express your emotions with Joy',
     info2: '',
     url: 'https://competent-meninsky-53a69c.netlify.app',
-    repo: 'https://github.com/vineelteja/project03', // if no repo, the button will not show up
+    repo: 'https://github.com/vineelteja/new_project3', // if no repo, the button will not show up
   },
 ];
 
@@ -59,7 +59,7 @@ export const projectsData = [
 export const contactData = {
   cta: '',
   btn: '',
-  email: '',
+  email: 'tejavine@gmail.com',
 };
 
 // FOOTER DATA
