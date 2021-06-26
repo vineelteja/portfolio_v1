@@ -50,7 +50,7 @@ export const projectsData = [
     title: 'New Type Social Networking',
     info: 'A new social networking app allows you to talk to people around you while you are anonymous. Express your feelings wihtout fear and  express your emotions with Joy',
     info2: '',
-    url: 'https://brave-curie-dfe3ba.netlify.app/',
+    url: 'https://competent-meninsky-53a69c.netlify.app',
     repo: 'https://github.com/vineelteja/project03', // if no repo, the button will not show up
   },
 ];
